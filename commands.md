@@ -2,7 +2,7 @@
 title: Commands
 description: Explanation of commands
 published: true
-date: 2021-02-11T16:24:39.411Z
+date: 2021-02-11T16:25:43.859Z
 tags: commands
 editor: markdown
 dateCreated: 2021-01-21T12:06:50.536Z
@@ -15,13 +15,13 @@ dateCreated: 2021-01-21T12:06:50.536Z
 
 - ### General commands
 |       Command        	|    Example	| Description 									|
-|:-------------------:  |:---------: 	|:-----------:									|
+|:-------------------  |:--------- 	|:-----------									|
 | dash						    	| `-dash` 	 	| Link to the dashboard        	|
 | help    							| `-help`    	| Shows the available commands  |
 
 - ### Ticket commands
 |       Command        	|    Example           	| Description 																																																															|	
-|:-------------------:  |:-------------------: 	|:--------------------------------------------------------------------------------------------------------------------------------------:		|
+|:-------------------  |:------------------- 	|:--------------------------------------------------------------------------------------------------------------------------------------		|
 | new	\<Subject>			  | `-new I need help` 		| Creates a new Ticket.<br>Moderators can supply a user as 2nd argument (-new @Domme) to create a ticket for the mentioned user     				|
 | close \<Reason>     	| `-close Solved`    		| Closes the ticket. Write this command twice to close a ticket or optionally supply a reason to instantly close the ticket									|
 
@@ -32,7 +32,7 @@ dateCreated: 2021-01-21T12:06:50.536Z
 {.is-info}
 - ### Usable only inside a ticket
 |       Command        	|    Example                  	| Description 	|
-|:-------------------:  |:---------------------------: 	|:-----------:	|
+|:-------------------  |:--------------------------- 	|:-----------	|
 | add [@User / ID]   	  | `-add @Domme`               	| Adds the given user to a ticket            																																			|
 | remove [@User / ID] 	| `-remove 186907597499138048` 	| Removes the given user from a ticket            																																|
 | owner [@User / ID]  	| `-owner @Domme`             	| Changed the owner of the ticket to the given user         																									   	|
@@ -42,7 +42,7 @@ dateCreated: 2021-01-21T12:06:50.536Z
 
 - ### Usable everywhere
 |       Command         										|    Example                 					| Description 																																										|
-|:----------------------------------------:	|:----------------------------------: |:---------------------------------------------------------------------------------------------:	|
+|:----------------------------------------	|:---------------------------------- |:---------------------------------------------------------------------------------------------	|
 | blacklist [@User / ID] 										| -blacklist @Domme         				 	| (Un)blacklists a user for creating tickets        																				    	|
 | blacklists          										  | -blacklists  												| Get a list of all blacklisted users          																										|
 | ticket [@User / ID]    										| -ticket @Domme       	  			    	| Overview of all tickets of the user           																								 	|
