@@ -2,7 +2,7 @@
 title: Commands
 description: Explanation of commands
 published: true
-date: 2021-02-11T15:55:56.363Z
+date: 2021-02-11T16:07:24.272Z
 tags: commands
 editor: markdown
 dateCreated: 2021-01-21T12:06:50.536Z
@@ -12,11 +12,24 @@ dateCreated: 2021-01-21T12:06:50.536Z
     
 
 ## Commands for everyone
-### General commands
 
-### Ticket commands
+- ### General commands
+|       Command        	|    Example                  	| Description 												|
+|:-------------------:  |:---------------------------: 	|:-----------:												|
+| dash						    	| -dash 				              	| Link to the dashboard            	|
+| help    							| -help         				      	| Shows the available commands       	|
+
+- ### Ticket commands
+|       Command        	|    Example                  	|  <div style="width:50px">property</div> 																																																															|
+|:-------------------:  |:---------------------------: 	|:-------------------------------------------------------------------------------------------------------------------------------------:		|
+| new	\<Subject>			  | -new I need help     					| Creates a new Ticket.<br>Moderators can supply a user as 2nd argument (-new @Domme) to create a ticket for the mentioned user     				|
+| close \<Reason>     	| -close Solved    							| Shows the available commands																																																							|
+
+
 
 ## Moderator commands
+> The following commands are only usable by users which have the setup moderator/admin role or are Administrators / Owner of the server
+{.is-info}
 - ### Usable only inside a ticket
 |       Command        	|    Example                  	| Description 	|
 |:-------------------:  |:---------------------------: 	|:-----------:	|
@@ -38,6 +51,8 @@ dateCreated: 2021-01-21T12:06:50.536Z
 | autoClose \<Number>  	|  -autoClose 48 							|             	|
 
 ## Admin commands
+> The following commands are only usable by users which have the setup admin role or are Administrators / Owner of the server
+{.is-info}
 ## Configuration commands
 ### General
 ### Ticket System
