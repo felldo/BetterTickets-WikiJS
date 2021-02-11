@@ -2,7 +2,7 @@
 title: Commands
 description: Explanation of commands
 published: true
-date: 2021-02-11T16:07:24.272Z
+date: 2021-02-11T16:09:00.803Z
 tags: commands
 editor: markdown
 dateCreated: 2021-01-21T12:06:50.536Z
@@ -20,7 +20,7 @@ dateCreated: 2021-01-21T12:06:50.536Z
 | help    							| -help         				      	| Shows the available commands       	|
 
 - ### Ticket commands
-|       Command        	|    Example                  	|  <div style="width:50px">property</div> 																																																															|
+|       Command        	|    Example                  	| Description 																																																															|
 |:-------------------:  |:---------------------------: 	|:-------------------------------------------------------------------------------------------------------------------------------------:		|
 | new	\<Subject>			  | -new I need help     					| Creates a new Ticket.<br>Moderators can supply a user as 2nd argument (-new @Domme) to create a ticket for the mentioned user     				|
 | close \<Reason>     	| -close Solved    							| Shows the available commands																																																							|
