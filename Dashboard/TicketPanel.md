@@ -2,9 +2,9 @@
 title: Ticket Panel
 description: 
 published: true
-date: 2021-01-21T09:32:08.539Z
-tags: 
-editor: undefined
+date: 2021-02-15T18:10:02.068Z
+tags: ticket panel, dashboard, settings
+editor: markdown
 dateCreated: 2020-09-16T11:39:31.523Z
 ---
 
