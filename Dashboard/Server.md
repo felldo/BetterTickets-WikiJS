@@ -2,7 +2,7 @@
 title: Server
 description: 
 published: true
-date: 2021-02-15T22:29:44.392Z
+date: 2021-02-15T22:32:36.957Z
 tags: dashboard, settings, server
 editor: markdown
 dateCreated: 2020-10-09T21:47:01.145Z
