@@ -2,9 +2,9 @@
 title: Ticket System
 description: 
 published: true
-date: 2020-10-10T11:11:39.798Z
-tags: 
-editor: undefined
+date: 2021-02-15T18:09:33.246Z
+tags: ticket system, dashboard, settings
+editor: markdown
 dateCreated: 2020-09-16T11:55:20.155Z
 ---
 
