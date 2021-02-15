@@ -2,7 +2,7 @@
 title: Ticket System
 description: 
 published: true
-date: 2021-02-15T18:09:33.246Z
+date: 2021-02-15T20:34:50.997Z
 tags: ticket system, dashboard, settings
 editor: markdown
 dateCreated: 2020-09-16T11:55:20.155Z
@@ -39,5 +39,4 @@ Restricts this ticket system to a channel. This is only used when creating ticke
 ###### Ticket Welcome Message
 Configure the text of the greeting message when creating a ticket
 - `:user:` get the mention of the user
-
-***The footer, color and images are Premium only features***
+⭐***The footer, color and images are Premium only features***
