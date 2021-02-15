@@ -2,7 +2,7 @@
 title: Ticket Panel
 description: 
 published: true
-date: 2021-02-15T20:36:29.660Z
+date: 2021-02-15T22:46:43.338Z
 tags: ticket panel, dashboard, settings
 editor: markdown
 dateCreated: 2020-09-16T11:39:31.523Z
@@ -10,14 +10,14 @@ dateCreated: 2020-09-16T11:39:31.523Z
 
 # Ticket Panel
 
-### What is a ticket panel?
+## What is a ticket panel?
 A ticket panel is another way to create a ticket besides the command.
 It is a simple Embed which uses ***Reactions*** to create tickets. 
 
-### ⭐ Ticket System
+## ⭐ Ticket System
 Here you can set the ticket system. If you have a Premium subscription you can add another ticket system and assign this ticket panel to it. Now the settings from this ticket system applies to the ticket panel such as the category where the ticket will be created in or the ticket greeting message.
 
-### Ticket Panel Message
+## Ticket Panel Message
 Configure the ticket panel message.
 ⭐***The footer, color and images are Premium only features***
 > You can add your own subjects to the ticket panel. To do so add a number emoji from 0️⃣ to 9️⃣ and after that write your subject followed by a new line if you add another subject
