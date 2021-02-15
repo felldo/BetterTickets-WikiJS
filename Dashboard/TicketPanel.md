@@ -2,7 +2,7 @@
 title: Ticket Panel
 description: 
 published: true
-date: 2021-02-15T18:34:40.973Z
+date: 2021-02-15T20:36:29.660Z
 tags: ticket panel, dashboard, settings
 editor: markdown
 dateCreated: 2020-09-16T11:39:31.523Z
@@ -19,6 +19,6 @@ Here you can set the ticket system. If you have a Premium subscription you can a
 
 ### Ticket Panel Message
 Configure the ticket panel message.
-
-> You can add your own subjects to the ticket panel. To do so add a number emoji from 1️⃣ to 9️⃣ and after that write your subject followed by a new line if you add another subject
+⭐***The footer, color and images are Premium only features***
+> You can add your own subjects to the ticket panel. To do so add a number emoji from 0️⃣ to 9️⃣ and after that write your subject followed by a new line if you add another subject
 {.is-info}
