@@ -2,7 +2,7 @@
 title: Commands
 description: Explanation of commands
 published: true
-date: 2021-02-15T20:41:14.586Z
+date: 2021-02-15T20:41:51.917Z
 tags: commands
 editor: markdown
 dateCreated: 2021-01-21T12:06:50.536Z
@@ -96,7 +96,7 @@ The default value for **system ID** and **panel ID** is always `0` unless you ha
 |⭐removeTicketPanel [Ticket panel id] 			| `-removeTicketPanel 1`        																							 		| Removes the ticket panel with the given id        																				    	|
 | panelInfo																	| `-panelInfo`        																												 		| Shows all ticket panels with their configurations
 ‎        																				    	|
-| ticketPanelMsg [PanelID] [MESSAGE] 				| -ticketPanelMsg 0 React to create a ticket <br>0️⃣ Subject 1 <br>1️⃣ Subject 2 	 | Sets the message of the ticket panel. Emoji numbers from :zero: to :nine: are reserved. You can use them to specify different ticket subjects. The text after the numbers will be the subject of the ticket until you insert a new line! If this message has been updated you have to re-use the ticketPanel command        																				   		 	|
+| ticketPanelMsg [PanelID] [MESSAGE] 				| -ticketPanelMsg 0 React to create a ticket <br>0️⃣ Subject 1 <br>1️⃣ Subject 2 	 | Sets the message of the ticket panel. Emoji numbers from :zero: to :nine: are reserved. You can use them to specify different ticket subjects. **The text after the numbers will be the subject of the ticket until you insert a new line!** If this message has been updated you have to re-use the ticketPanel command        																				   		 	|
 |⭐panelFooterMsg [PanelID] [MESSAGE] 				| `-panelFooterMsg 0 Message in the footer`        				 												|	Sets the footer message of the ticket panel.         																				    	|
 |⭐panelFooterUrl [PanelID] [URL]  					| `-panelFooterUrl 0 https://link.jpg`        																	 	| Sets the footer image of the ticket panel. Valid URL's end with: .png | .jpg | .gif.        																				    	|
 |⭐panelUrl [PanelID] [URL] 									| `-panelUrl 0 https://link.gif`        																				 	| Sets the image of the ticket panel. Valid URL's end with: .png | .jpg | .gif.        																				    	|
