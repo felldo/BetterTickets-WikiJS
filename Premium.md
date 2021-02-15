@@ -2,13 +2,13 @@
 title: Premium Subscription
 description: 
 published: true
-date: 2021-01-21T11:53:56.775Z
-tags: 
-editor: undefined
+date: 2021-02-15T18:35:18.984Z
+tags: premium
+editor: markdown
 dateCreated: 2020-09-16T11:48:49.006Z
 ---
 
-# Premium
+# ⭐ Premium ⭐
 A premium subscription offers many advantages over the free to use version.
 >► Unlimited Ticket Panels
 >► Unlimited Ticket Systems
