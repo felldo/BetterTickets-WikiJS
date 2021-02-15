@@ -2,7 +2,7 @@
 title: Commands
 description: Explanation of commands
 published: true
-date: 2021-02-15T20:40:55.443Z
+date: 2021-02-15T20:41:14.586Z
 tags: commands
 editor: markdown
 dateCreated: 2021-01-21T12:06:50.536Z
@@ -92,7 +92,7 @@ The default value for **system ID** and **panel ID** is always `0` unless you ha
 |:-----------------------------------------	|:----------------------------------------------------------------------------- |:-----------------------------------------------------------------------	  |
 | ticketPanel [PanelID] 										| `-ticketPanel 0`      																							 				 		| An alternative to creating tickets with a command. Uses reactions on a message. **This command prints the ticket panel**        																				    	|
 |⭐setSystem [Ticket panel id] [System id] 	| `-setSystem 1 1`        																										 		| Sets the system for the given ticket panel id to the given system id        																				    	|
-|⭐addTicketPanel 														| ```-addTicketPanel```        																										 		| Create a new ticket panel         																				    	|
+|⭐addTicketPanel 														| `-addTicketPanel`        																										 		| Create a new ticket panel         																				    	|
 |⭐removeTicketPanel [Ticket panel id] 			| `-removeTicketPanel 1`        																							 		| Removes the ticket panel with the given id        																				    	|
 | panelInfo																	| `-panelInfo`        																												 		| Shows all ticket panels with their configurations
 ‎        																				    	|
