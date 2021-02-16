@@ -2,20 +2,19 @@
 title: Commands
 description: Explanation of commands
 published: true
-date: 2021-02-16T00:30:11.826Z
+date: 2021-02-16T00:30:56.881Z
 tags: commands
 editor: markdown
 dateCreated: 2021-01-21T12:06:50.536Z
 ---
 
 # Commands
-
-## Commands for everyone
 > Arguments inside `<>` are optional and do not have to be present.
 Argument inside `[]` have to be provided for the command to work.<br>
 To get the ID of something:<br>Settings -> Appearance -> Scroll all the way down -> Activate Developer mode. <br>Then just right click a role, channel, category or user and copy its ID
 {.is-info}
 
+## Commands for everyone
 - ### General commands
 |       Command        	|    Example	| Description 									|
 |:-------------------   |:--------- 	|:-----------			  						|
