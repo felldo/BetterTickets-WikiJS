@@ -2,7 +2,7 @@
 title: Commands
 description: Explanation of commands
 published: true
-date: 2021-02-16T00:30:56.881Z
+date: 2021-02-16T00:33:14.843Z
 tags: commands
 editor: markdown
 dateCreated: 2021-01-21T12:06:50.536Z
@@ -49,12 +49,10 @@ To get the ID of something:<br>Settings -> Appearance -> Scroll all the way down
 | ticket [@User / ID] [Ticket ID]       	  | `-ticket @Domme 1` 										| Receive the transcript            																															|
 |⭐closeAll <#Channels> 										  | `-closeAll #ticket-0001 #ticket-0003` | Closes all opened tickets. If an argument is provided only the mentioned tickets will be closed	|
 
-## Admin commands
+## Admin configuration commands
 > The following commands are only usable by users which have the setup admin role or are Administrators / Owner of the server.<hr>
 The default value for **system ID** and **panel ID** is always `0` unless you have a premium subscription which allows you to have mutiple ticket systems and ticket panels
 {.is-info}
-
-## Configuration commands
 - ### General
 |       Command  							|    Example               	  	| Description 																																													            													|
 |:--------------------------	|:---------------------------- |:-----------------------------------------------------------------------------------------------------------------------------------------	  |
