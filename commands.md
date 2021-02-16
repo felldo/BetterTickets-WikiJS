@@ -2,7 +2,7 @@
 title: Commands
 description: Explanation of commands
 published: true
-date: 2021-02-15T20:41:51.917Z
+date: 2021-02-16T00:22:01.019Z
 tags: commands
 editor: markdown
 dateCreated: 2021-01-21T12:06:50.536Z
@@ -37,7 +37,7 @@ Argument inside `[]` have to be provided for the command to work.
 | <nobr>remove [@User / ID]</nobr> 	| <nobr>`-remove 186907597499138048`</nobr> 	| Removes the given user from a ticket            																																|
 | <nobr>owner [@User / ID]</nobr>  	| `-owner @Domme`             	| Changed the owner of the ticket to the given user         																									   	|
 | <nobr>rename [Name]</nobr>       	| `-rename `        			  		| Renames the ticket. Due to limitations from discord this is only twice every 10 minutes possible            		|
-| claim               	| `-claim`     						    	| Claims a ticket for a supporter. Optionally you can setup a category where the ticket will be moved to. Currently you can only setup this in the dashboard            	|
+|⭐claim               	| `-claim`     						    	| Claims a ticket for a supporter. Optionally you can setup a category where the ticket will be moved to. Currently you can only setup this in the dashboard            	|
 |⭐<nobr>autoClose \<Number></nobr>  	| `-autoClose 48`						  	| Sets the (new) ticket auto close timer which will close the ticket according to [Number] hours after the last message was sent in this ticket. No argument to remove a current existing timer             	|
 
 - ### Usable everywhere
