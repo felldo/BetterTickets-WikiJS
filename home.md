@@ -2,10 +2,10 @@
 title: Home
 description: 
 published: true
-date: 2020-09-16T11:56:23.440Z
+date: 2021-04-16T20:28:20.617Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-09-12T12:58:53.859Z
 ---
 
-# Official Better Tickets documentation (WIP)
+# Official Better Tickets documentation

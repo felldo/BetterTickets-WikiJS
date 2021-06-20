@@ -3,8 +3,8 @@ title: Dashboard Configuration
 description: 
 published: true
 date: 2020-10-09T21:51:08.421Z
-tags: 
-editor: undefined
+tags: dashboard, configuration, settings, webinterface
+editor: markdown
 dateCreated: 2020-10-09T21:17:03.366Z
 ---
 

@@ -2,7 +2,7 @@
 title: Premium Subscription
 description: 
 published: true
-date: 2021-02-15T18:35:18.984Z
+date: 2021-04-16T20:30:04.996Z
 tags: premium
 editor: markdown
 dateCreated: 2020-09-16T11:48:49.006Z
@@ -14,6 +14,7 @@ A premium subscription offers many advantages over the free to use version.
 >► Unlimited Ticket Systems
 >► Fully customizable embeds (Ticket Panel & Ticket Message)
 >► Advanced moderation command
+>► All other available premium settings can be found in the `Dashboard` category
 {.is-info}
 
 
