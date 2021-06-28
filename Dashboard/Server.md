@@ -2,7 +2,7 @@
 title: Server
 description: 
 published: true
-date: 2021-02-15T22:32:39.040Z
+date: 2021-06-28T10:33:45.055Z
 tags: dashboard, settings, server
 editor: markdown
 dateCreated: 2020-10-09T21:47:01.145Z
@@ -23,7 +23,7 @@ The limit is 99 tickets
 The modrole is a role which is used to be able to use the bot's moderation commands.
 
 ## Admin Role
-The admin role has furthermore the privileges to configure the bot.
+The admin role has furthermore the privileges to configure the bot. This means users with this role will have access to the dashboard.
 
 ## Devmode
 This is a channel where ticket create/close log messages will be sent to.
