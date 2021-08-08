@@ -2,7 +2,7 @@
 title: Commands
 description: Explanation of commands
 published: true
-date: 2021-04-16T20:59:09.966Z
+date: 2021-08-08T14:56:38.336Z
 tags: commands
 editor: markdown
 dateCreated: 2021-01-21T12:06:50.536Z
@@ -38,7 +38,7 @@ To get the ID of something:<br>Settings -> Appearance -> Scroll all the way down
 | <nobr>owner [@User / ID]</nobr>  	| `-owner @Domme`             	| Changed the owner of the ticket to the given user         																									   	|
 | <nobr>rename [Name]</nobr>       	| `-rename `        			  		| Renames the ticket. Due to limitations from discord this is only twice every 10 minutes possible            		|
 |⭐claim               	| `-claim`     						    	| Claims a ticket for a supporter. Optionally you can setup a category where the ticket will be moved to. Currently you can only setup this in the dashboard            	|
-|⭐<nobr>autoClose \<Number></nobr>  	| `-autoClose 48`						  	| Sets the (new) ticket auto close timer which will close the ticket according to [Number] hours after the last message was sent in this ticket. No argument to remove a current existing timer             	|
+|⭐<nobr>autoClose [Number] \<Reason></nobr>  	| `-autoClose 48 Closing after 48hours of inactivity`						  	| Sets the (new) ticket auto close timer which will close the ticket according to [Number] hours after the last message was sent in this ticket. No argument to remove a current existing timer             	|
 
 - ### Usable everywhere
 |       Command         										|    Example                 					| Description 																																										|
