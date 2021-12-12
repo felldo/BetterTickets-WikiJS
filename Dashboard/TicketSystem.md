@@ -2,7 +2,7 @@
 title: Ticket System
 description: 
 published: true
-date: 2021-04-16T21:10:55.151Z
+date: 2021-12-12T18:16:17.173Z
 tags: ticket system, dashboard, settings
 editor: markdown
 dateCreated: 2020-09-16T11:55:20.155Z
@@ -57,3 +57,7 @@ Enables / Disables the ability to create tickets for this ticket system.
 ### Send "@User your requested ticket has been created" confirm messages
 Notifies the user that his ticket has been created.
 ![yourrequestedtickethasbeencreated.png](/yourrequestedtickethasbeencreated.png)
+
+### ⭐ Activate steam authentication 
+Whether a steam authentication button should be attached to the ticket create message. The authenticated information will look like:
+![steam_auth.png](/steam_auth.png)
