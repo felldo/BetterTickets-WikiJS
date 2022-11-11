@@ -2,14 +2,14 @@
 title: Getting Started
 description: 
 published: true
-date: 2021-10-10T11:30:46.864Z
+date: 2022-11-11T09:47:00.747Z
 tags: installing
 editor: markdown
 dateCreated: 2021-02-02T23:01:29.734Z
 ---
 
 # Getting started
-1. Invite the bot via the following link: [Invite](https://discord.com/oauth2/authorize?client_id=553610702439579669&permissions=8&scope=applications.commands%20bot).
+1. Invite the bot via the following link: [Invite](https://discord.com/oauth2/authorize?client_id=553610702439579669&scope=applications.commands%20bot&permissions=2953178200).
 
 2. Create a category where the ticket will be created in.
 
