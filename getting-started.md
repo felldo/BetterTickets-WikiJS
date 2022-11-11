@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2022-11-11T14:26:18.476Z
+date: 2022-11-11T14:27:25.111Z
 tags: installing
 editor: markdown
 dateCreated: 2021-02-02T23:01:29.734Z
@@ -39,4 +39,4 @@ dateCreated: 2021-02-02T23:01:29.734Z
 
 7. You have now setup the most essential settings to get started. You can now start creating tickets with the slash command `/new` and a ticket will show up in your ticket category
 
-## Setup a Ticket panel
+## Setup a Ticket Panel
