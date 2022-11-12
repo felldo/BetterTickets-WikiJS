@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2022-11-11T18:16:29.654Z
+date: 2022-11-12T00:46:13.948Z
 tags: installing
 editor: markdown
 dateCreated: 2021-02-02T23:01:29.734Z
@@ -54,5 +54,5 @@ dateCreated: 2021-02-02T23:01:29.734Z
     4. Submit your changes
     5. Select the channel where you want to send the Ticket Panel to.
     6. Click on the send button to actually send your Ticket Panel to this channel
-    7. If the Ticket Panel does not show up, make sure you have setup the `Ticket Panel Mode` properly
+    7. If the Ticket Panel does not show up, make sure you have setup the `Ticket Panel Mode` properly (step 2)
 ![getting_started_ticket_panel_2_edited.png](/getting_started_ticket_panel_2_edited.png)
