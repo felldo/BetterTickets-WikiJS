@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2022-11-12T00:46:13.948Z
+date: 2022-11-12T01:09:42.059Z
 tags: installing
 editor: markdown
 dateCreated: 2021-02-02T23:01:29.734Z
