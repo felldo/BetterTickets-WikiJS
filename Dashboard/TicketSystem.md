@@ -2,7 +2,7 @@
 title: Ticket System
 description: 
 published: true
-date: 2021-12-12T18:19:59.322Z
+date: 2023-01-07T17:33:52.921Z
 tags: ticket system, dashboard, settings
 editor: markdown
 dateCreated: 2020-09-16T11:55:20.155Z
@@ -12,8 +12,9 @@ dateCreated: 2020-09-16T11:55:20.155Z
 ## What is a ticket system?
 A ticket system is the *connector* between your ticket creation method and the ticket settings.
 This allows you to have very customizable tickets by having for instance:
-> - Pointing every ticket panel to a different category with a different ticket greeting message.
-> - The same for channels when using the command by restricting the ticket system to a channel.
+
+> Pointing every ticket panel to a different category with a different ticket greeting message. 
+> The same for channels when using the command by restricting the ticket system to a channel.
 {.is-warning}
 
 ### Category
