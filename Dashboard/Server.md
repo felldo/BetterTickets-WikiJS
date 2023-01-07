@@ -2,7 +2,7 @@
 title: Server
 description: 
 published: true
-date: 2023-01-07T17:25:23.643Z
+date: 2023-01-07T17:29:19.125Z
 tags: dashboard, settings, server
 editor: markdown
 dateCreated: 2020-10-09T21:47:01.145Z
@@ -38,6 +38,7 @@ When setting a DeepL API key you can enable the message translation feature. You
 When you have created an account, visit this link https://www.deepl.com/account/summary , scroll all the way down and then you will find your key. Save this in the dashboard and the API key will be saved encrypted in the database. 
 ![image.png](/image.png)
 
+> Your API key will never be used for anything except in your server in response to actions like submitting a command for a message translation or when using the toggle translation feature to have an ongoing conversation etc...
+{.is-info}
 
 
-Your API key will never be used for anything except in your server in response to actions like submitting a command for a message translation or when using the toggle translation feature to have an ongoing conversation etc...
